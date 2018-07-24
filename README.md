@@ -8,3 +8,5 @@ Pytorch implementation of OpenAI Glow (still working..)
 [[DENSITY ESTIMATION USING REAL NVP](https://arxiv.org/pdf/1605.08803.pdf)]
 
 [[OpenAI Blog](https://blog.openai.com/glow/)]
+
+[[Code from] (https://github.com/chaiyujin/glow-pytorch)]
