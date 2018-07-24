@@ -9,4 +9,4 @@ Pytorch implementation of OpenAI Glow (still working..)
 
 [[OpenAI Blog](https://blog.openai.com/glow/)]
 
-[[Code from] (https://github.com/chaiyujin/glow-pytorch)]
+[[Code from](https://github.com/chaiyujin/glow-pytorch)]
